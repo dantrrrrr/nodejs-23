@@ -1,0 +1,26 @@
+{
+  "name": "nodejs2023",
+  "version": "1.0.0",
+  "description": "dantr nodejs 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "restapi",
+    "expressjs"
+  ],
+  "author": "dantr",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "ip": "^1.1.8",
+    "nodemon": "^2.0.21",
+    "uuid": "^9.0.0"
+  }
+}
