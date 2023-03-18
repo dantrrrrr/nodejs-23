@@ -27,5 +27,3 @@ router.route('/:id')
 // })
 
 module.exports = router;
-//sdw
-// sdawd
